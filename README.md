@@ -24,12 +24,12 @@ I am Nithya I am working as an Android Developer with 2 years of experience at G
 
 ### ⚙️ Jetpack Components
 [![ViewModel](https://img.shields.io/badge/ViewModel-4285F4?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/viewmodel)
-[![LiveData](https://img.shields.io/badge/LiveData-4285F4?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/livedata)
-[![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge)](https://developer.android.com/training/data-storage/room)
-[![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge)](https://developer.android.com/guide/navigation)
-[![DataBinding](https://img.shields.io/badge/DataBinding-4285F4?style=for-the-badge)](https://developer.android.com/topic/libraries/data-binding)
-[![ViewBinding](https://img.shields.io/badge/ViewBinding-4285F4?style=for-the-badge)](https://developer.android.com/topic/libraries/view-binding)
-[![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/workmanager)
+[![LiveData](https://img.shields.io/badge/LiveData-34A853?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/livedata)
+[![Room](https://img.shields.io/badge/Room-FBBC05?style=for-the-badge&logoColor=black)](https://developer.android.com/training/data-storage/room)
+[![Navigation](https://img.shields.io/badge/Navigation-EA4335?style=for-the-badge)](https://developer.android.com/guide/navigation)
+[![DataBinding](https://img.shields.io/badge/DataBinding-9C27B0?style=for-the-badge)](https://developer.android.com/topic/libraries/data-binding)
+[![ViewBinding](https://img.shields.io/badge/ViewBinding-00ACC1?style=for-the-badge)](https://developer.android.com/topic/libraries/view-binding)
+[![WorkManager](https://img.shields.io/badge/WorkManager-5E35B1?style=for-the-badge)](https://developer.android.com/topic/libraries/architecture/workmanager)
 
 ### 🔄 Async / Networking
 [![Coroutines](https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/docs/coroutines-overview.html)
